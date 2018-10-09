@@ -1,2 +1,2 @@
-# Testowe
+# PAI
 ForLab1
