@@ -1,3 +1,15 @@
 bitbucket
 visual code
 workbench
+
+-------------------------------------------------
+
+xampp -> php 7.2, mysql, apache
+
+ustawiamy katalog główny
+
+wrzucamy tam index.php
+
+------------------------------------------------
+
+php -S localhost:8000
