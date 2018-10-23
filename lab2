@@ -1,0 +1,12 @@
+POST - przekazanie danych ukrytych, formularze
+
+GET - dane jawne, pobieranie danych, przekazywanie prostych danych
+
+
+strtolover();
+$__Server['REQUEST_METHOD'];
+getclass(); -> nazwa klasy
+
+dirname(); -> ścieżka do folderu
+__DIR__ -> ścieżka do folderu nadrzędnego
+isset(); -> czy flaga jest ustawiona
